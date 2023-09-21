@@ -4,9 +4,9 @@
 You can find the paper
 [here](https://arxiv.org/abs/2304.06712)
 
----
 ![Image](circles-image.jpg)
----
+
+
 Authors:
 
 [Aleksandar (Suny) Shtedritski](https://github.com/suny-sht)
